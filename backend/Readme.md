@@ -1,10 +1,10 @@
 Backend => Groupomania
 
 Serveur Node 
-    Nodemon installed
+    install Nodemon
     start ==> nodemon server
 
 Application Express 
-    Middleware CORS pour donner l'accès aux utilisateurs
+    Middleware CORS installed
 
 BD MySql
