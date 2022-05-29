@@ -1,5 +1,7 @@
 // Import de express
 const express = require('express');
+// Import des routes
+const routes = require('./routes');
 // Création de l'application express
 const app = express();
 // Appel de la base de données
